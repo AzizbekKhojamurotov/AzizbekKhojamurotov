@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AzizbekKhojamurotov
+- 👀 I’m interested in Front-end developing
+- 🌱 I’m currently learning HTML5/CSS/Bootstrap, Javascript/Nodejs, Python
+- 💞️ I’m looking to collaborate on programming
+- 📫 How to reach me: t.me/shukhratovich_7
